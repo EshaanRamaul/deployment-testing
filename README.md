@@ -1,3 +1,5 @@
+[![Coverage Status](https://coveralls.io/repos/github/EshaanRamaul/deployment-testing/badge.svg?branch=main)](https://coveralls.io/github/EshaanRamaul/deployment-testing?branch=main)
+
 # Student template
 
 ## Purpose of this repository
